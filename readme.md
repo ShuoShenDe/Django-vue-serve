@@ -1,6 +1,11 @@
 # This project is created for integrate vue server and Django framework
 
-## Step 1: integrate vue and Django when in development mode
+## Step 1: install Django and vue
+You should run them on
+
+## Step 2: download dependencies of Vue and requirements of Django
+
+## Step 3: integrate vue and Django when in development mode
 ![vue reference for development and production mode](https://dev.to/saymy__name__/hooking-up-django-and-vue-js-19j3)
 Especially, when you use Windows system, you should set
 ```in vue.config.js
@@ -12,14 +17,12 @@ config.devServer
       .public("http://127.0.0.1:8080/")
 ...
 ```
-## Step 2: integrate vue and Django when in development mode
-![configure reference](https://medium.com/@rodrigosmaniotto/integrating-django-and-vuejs-with-vue-cli-3-and-webpack-loader-145c3b98501a)(https://dev.to/saymy__name__/hooking-up-django-and-vue-js-19j3)
 
-## Step 3: run vue server in frontend folder
+## Step 4: run vue server in frontend folder
 ```use npm
 npm run serve
 ```
-Then, run Django
+## Step 4: run Django server
 ```use python
 python manage.py runserver
 ```
