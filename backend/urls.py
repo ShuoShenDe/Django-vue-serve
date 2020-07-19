@@ -17,8 +17,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.views.generic import TemplateView
+from django.urls import re_path
+from backend.view import IndexTemplateView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path("",TemplateView.as_view(template_name="application.html"), name="app",),
+    re_path(r"^.*$", IndexTemplateView.as_view(), name="entry-point"),
 ]
