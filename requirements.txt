@@ -21,7 +21,7 @@ cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 dill==0.3.1.1
-Django==3.0.5
+Django==3.1.13
 django-webpack-loader==0.7.0
 djangorestframework==3.11.0
 earthengine-api==0.1.224
