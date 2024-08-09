@@ -29,7 +29,7 @@ elevation==1.0.6
 entrypoints==0.3
 fasteners==0.15
 folium==0.11.0
-future==0.18.2
+future==0.18.3
 gast==0.2.2
 GDAL @ file:///D:/Download/GDAL-3.0.4-cp37-cp37m-win_amd64.whl
 google-api-core==1.19.0
