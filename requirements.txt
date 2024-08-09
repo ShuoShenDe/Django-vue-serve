@@ -146,7 +146,7 @@ terminado==0.8.3
 testpath==0.4.4
 tf-estimator-nightly==1.14.0.dev2019080601
 tornado==6.0.4
-tqdm==4.46.0
+tqdm==4.66.3
 traitlets==4.3.3
 tutor-openedx==10.0.11
 typeguard==2.9.1
