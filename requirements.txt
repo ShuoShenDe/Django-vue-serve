@@ -145,7 +145,7 @@ termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
 tf-estimator-nightly==1.14.0.dev2019080601
-tornado==6.4.1
+tornado==6.4.2
 tqdm==4.66.3
 traitlets==4.3.3
 tutor-openedx==10.0.11
