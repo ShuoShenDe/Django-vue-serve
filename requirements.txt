@@ -75,7 +75,7 @@ keyring==21.2.1
 kiwisolver==1.2.0
 kubernetes==11.0.0
 lerc==0.1.0
-Markdown==3.2.1
+Markdown==3.8.1
 MarkupSafe==1.1.1
 matplotlib==3.2.1
 mistune==2.0.3
