@@ -78,7 +78,7 @@ lerc==0.1.0
 Markdown==3.8.1
 MarkupSafe==1.1.1
 matplotlib==3.2.1
-mistune==2.0.3
+mistune==3.2.1
 monotonic==1.5
 nbconvert==7.17.0
 nbformat==5.0.6
